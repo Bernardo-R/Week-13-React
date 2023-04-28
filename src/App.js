@@ -1,7 +1,7 @@
 import "./App.css";
-import Nav from "./nav";
-import LogInForm from "./loginForm";
-import Footer from "./footer";
+import Nav from "./components/nav";
+import LogInForm from "./components/loginForm";
+import Footer from "./components/footer";
 
 function App() {
   return (
